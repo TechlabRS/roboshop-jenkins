@@ -2,7 +2,7 @@ sjobs:
   - { git_repo_url: https://github.com/TechlabRS/roboshop-terraform.git, job_name: roboshop-terraform }
   - { git_repo_url: https://github.com/TechlabRS/roboshop-ansible.git, job_name: roboshop-ansible }
   - { git_repo_url: https://github.com/TechlabRS/aws-ssm-paramter-store.git, job_name: aws-ssm-paramter-store }
-  - { git_repo_url: https://github.com/TechlabRS/host_zone.git, job_name: host-zone-creation }
+  #- { git_repo_url: https://github.com/TechlabRS/host_zone.git, job_name: host-zone-creation }
 
 mjobs:
   - { git_repo_url: https://github.com/TechlabRS/cart.git, job_name: cart }
